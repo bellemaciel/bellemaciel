@@ -39,3 +39,5 @@
 
 ## Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bellemaciel&repo=dio-lab-open-source&bg_color=fff&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+
+![snake gif](https://github.com/bellemaciel/bellemaciel/blob/output/github-contribution-grid-snake.svg)
